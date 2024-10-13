@@ -1,7 +1,14 @@
 import React from 'react';
 import { StatusBar } from 'react-native';
 import { useNavigation } from '@react-navigation/native';
-import { Button, Div, Image, Input, Text, Icon } from 'react-native-magnus';
+import {
+  Button,
+  Div,
+  Image,
+  Input,
+  Text,
+  Icon,
+} from '@phence/react-native-magnus';
 
 import ExamplePage from '../utils/ExamplePage';
 

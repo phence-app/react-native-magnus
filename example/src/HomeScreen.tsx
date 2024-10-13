@@ -11,7 +11,7 @@ import {
   Toggle,
   Icon,
   useTheme,
-} from 'react-native-magnus';
+} from '@phence/react-native-magnus';
 
 import { useNavigation } from '@react-navigation/native';
 import { components, pages } from './items';

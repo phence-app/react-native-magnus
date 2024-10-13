@@ -1,5 +1,5 @@
 import React from 'react';
-import { Button, Div, Fab, Icon, Text } from 'react-native-magnus';
+import { Button, Div, Fab, Icon, Text } from '@phence/react-native-magnus';
 
 import ExamplePage from '../utils/ExamplePage';
 import ExampleHeader from '../utils/ExampleHeader';

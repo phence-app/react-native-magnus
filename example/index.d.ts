@@ -1,5 +1,5 @@
 type Toast = React.RefObject<
-  import('react-native-magnus').SnackbarRef
+  import('@phence/react-native-magnus').SnackbarRef
 >['current'];
 
 interface Global {

@@ -1,6 +1,13 @@
 import React from 'react';
 import { useNavigation } from '@react-navigation/native';
-import { Div, Text, Button, Icon, Image, StatusBar } from 'react-native-magnus';
+import {
+  Div,
+  Text,
+  Button,
+  Icon,
+  Image,
+  StatusBar,
+} from '@phence/react-native-magnus';
 import ExamplePage from '../utils/ExamplePage';
 
 const logoUrl =

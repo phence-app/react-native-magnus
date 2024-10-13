@@ -1,6 +1,12 @@
 import React, { useRef } from 'react';
 import { ActivityIndicator, ScrollView } from 'react-native';
-import { Button, Div, Overlay, Text, OverlayRef } from 'react-native-magnus';
+import {
+  Button,
+  Div,
+  Overlay,
+  Text,
+  OverlayRef,
+} from '@phence/react-native-magnus';
 
 import ExamplePage from '../utils/ExamplePage';
 import ExampleHeader from '../utils/ExampleHeader';

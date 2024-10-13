@@ -13,7 +13,7 @@ import {
   Input,
   Portal,
   Text,
-} from 'react-native-magnus';
+} from '@phence/react-native-magnus';
 import ExamplePage from '../utils/ExamplePage';
 
 const friends = [

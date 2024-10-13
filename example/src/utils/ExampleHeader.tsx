@@ -8,7 +8,7 @@ import {
   Text,
   Toggle,
   useTheme,
-} from 'react-native-magnus';
+} from '@phence/react-native-magnus';
 import { lightTheme, darkTheme, saveThemeName } from '../themes';
 
 interface ExampleHeaderProps {

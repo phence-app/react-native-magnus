@@ -1,6 +1,6 @@
 import React, { ReactNode } from 'react';
 import { SafeAreaView } from 'react-native';
-import { StatusBar, Div } from 'react-native-magnus';
+import { StatusBar, Div } from '@phence/react-native-magnus';
 
 interface ExamplePageProps {
   children: ReactNode;

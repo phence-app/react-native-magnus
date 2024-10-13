@@ -1,6 +1,6 @@
 {
   "settings": {
-    "import/core-modules": [ "react-native-magnus" ]
+    "import/core-modules": ["@phence/react-native-magnus"]
   },
 
   "rules": {

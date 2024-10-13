@@ -7,7 +7,7 @@ import {
   Select,
   SelectRef,
   Text,
-} from 'react-native-magnus';
+} from '@phence/react-native-magnus';
 import ExamplePage from '../utils/ExamplePage';
 import ExampleHeader from '../utils/ExampleHeader';
 import ExampleSection from '../utils/ExampleSection';

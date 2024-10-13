@@ -2,7 +2,7 @@
   "compilerOptions": {
     "baseUrl": ".",
     "paths": {
-      "react-native-magnus": ["./src/index"]
+      "@phence/react-native-magnus": ["./src/index"]
     },
     "allowUnreachableCode": false,
     "allowUnusedLabels": false,

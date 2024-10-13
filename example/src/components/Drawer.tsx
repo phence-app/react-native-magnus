@@ -1,5 +1,5 @@
 import React from 'react';
-import { Button, Drawer, Text, DrawerRef } from 'react-native-magnus';
+import { Button, Drawer, Text, DrawerRef } from '@phence/react-native-magnus';
 
 import ExamplePage from '../utils/ExamplePage';
 import ExampleHeader from '../utils/ExampleHeader';

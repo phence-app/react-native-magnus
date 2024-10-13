@@ -1,6 +1,12 @@
 import { useNavigation } from '@react-navigation/native';
 import React from 'react';
-import { Button, Carousel, Div, Icon, StatusBar } from 'react-native-magnus';
+import {
+  Button,
+  Carousel,
+  Div,
+  Icon,
+  StatusBar,
+} from '@phence/react-native-magnus';
 import ExamplePage from '../utils/ExamplePage';
 
 const IntroExample1 = () => {

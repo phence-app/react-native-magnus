@@ -3,7 +3,7 @@
   "compilerOptions": {
     "baseUrl": ".",
     "paths": {
-      "react-native-magnus": ["../src"]
+      "@phence/react-native-magnus": ["../src"]
     },
     "jsx": "react-native",
     "target": "esnext",

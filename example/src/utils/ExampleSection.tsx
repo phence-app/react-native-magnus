@@ -1,5 +1,5 @@
 import React, { ReactNode } from 'react';
-import { Div, Text } from 'react-native-magnus';
+import { Div, Text } from '@phence/react-native-magnus';
 
 interface ExampleSectionProps {
   name: string;

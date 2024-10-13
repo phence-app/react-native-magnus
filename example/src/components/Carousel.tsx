@@ -1,6 +1,6 @@
 import React from 'react';
 import { ScrollView } from 'react-native';
-import { Carousel, Div, DivProps, Text } from 'react-native-magnus';
+import { Carousel, Div, DivProps, Text } from '@phence/react-native-magnus';
 
 import ExampleHeader from '../utils/ExampleHeader';
 import ExamplePage from '../utils/ExamplePage';

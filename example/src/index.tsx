@@ -1,7 +1,7 @@
 import React from 'react';
 import { createStackNavigator } from '@react-navigation/stack';
 import { NavigationContainer } from '@react-navigation/native';
-import { Snackbar, ThemeProvider } from 'react-native-magnus';
+import { Snackbar, ThemeProvider } from '@phence/react-native-magnus';
 import * as SplashScreen from 'expo-splash-screen';
 import { useFonts } from 'expo-font';
 
